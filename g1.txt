@@ -1,2 +1,2 @@
 second commit
-thrid commit
+thrid commit.
